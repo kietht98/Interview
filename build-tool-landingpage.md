@@ -1,0 +1,1 @@
+- https://landingpage.fyi/landing-page-checklist
