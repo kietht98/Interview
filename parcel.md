@@ -1,0 +1,1 @@
+- Parcel combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.
